@@ -2,7 +2,7 @@
 
 ___
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Portfolio](https://sabanovics.com/)
 - 😄 Pronouns: He/Him
