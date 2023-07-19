@@ -9,8 +9,7 @@
 
 <p align="center">Driven Frontend / UI Developer with a keen eye for detail and a commitment to delivering exceptional user experiences. Worked on both Micro Frontends and large-scale applications for companies such as BMW, Vodafone, RedBull, Salewa, etc..</p>
 
-<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,angular,vue,nuxtjs,php,wordpress)](https://skillicons.dev)
-</p>
+
 
 
