@@ -1,4 +1,4 @@
-<img src="[https://media.tenor.com/zxuWlcUL0Y4AAAAd/hasbulla.gif" />
+<img src="https://media.tenor.com/zxuWlcUL0Y4AAAAd/hasbulla.gif" />
 
 #
 
