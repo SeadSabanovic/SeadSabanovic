@@ -12,7 +12,7 @@ Driven Frontend / UI Developer with a keen eye for detail and a commitment to de
 [Check out my Portfolio here...](https://seadsabanovic.github.io/folio/)
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,angular,vue,nuxtjs,php,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,gatsby,angular,vue,nuxtjs,php,wordpress,graphql)](https://skillicons.dev)
 
 
 
