@@ -9,7 +9,7 @@
 
 Driven Frontend / UI Developer with a keen eye for detail and a commitment to delivering exceptional user experiences. Worked on both Micro Frontends and large-scale applications for companies such as BMW, Vodafone, RedBull, Salewa, etc..
 
-[Check out my Portfolio here...](https://sead-sabanovic.vercel.app/)
+[Check out my Portfolio here...](https://seadsabanovic.vercel.app/)
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,gatsby,angular,vue,nuxtjs,php,wordpress,graphql)](https://skillicons.dev)
